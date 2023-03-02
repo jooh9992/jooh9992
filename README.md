@@ -18,10 +18,7 @@
 <br>  
 
 매일 성장 중인 개발자 입니다. 📈
-
-> ✉️ jooh9992@gmail.com
-📃 https://leejooh.tistory.com 
-🖥️ 클라우드&백엔드 개발자   
+🖥️ 클라우드&백엔드 개발자
 
    
 
